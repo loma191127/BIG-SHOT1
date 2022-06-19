@@ -1,0 +1,21 @@
+Characters:
+-->PC: Any guy from 8 planets of solar system
+-->NPC:Asteroids and black holes
+Story: You are a guy from your planet to save your planet from all other planets who just want to destroy yours.
+Goals: Kill others and watch your back.
+Rules:
+--> Your rocket keeps moving forward - you can just spin it using left and right arrow keys.
+--> Click space to shoot deadly lasers.
+--> It takes 3 laser shots to kill someone. Last shot hitter gets the point.
+--> Final score = number of kills-the number of times you died.
+--> After dying, you respawn in 5 seconds.
+--> Game lasts 180s.
+--> Collide to someone and both will start spinning randomly for a sec
+--> Power-ups like shield, the big shot,bouncer laser.
+--> Reload time = 5s.
+--> Astroids and black holes keep appearing. Astroids reduce health by 1/3 and black holes make you stuck for 5s.
+Balance: Others keep making it harder for you.
+Adaptivity: Astroids and black holes keep appearing more and more often over time.
+Chance vs skill: Requires good driving, good shot and well-made motion analysis.
+Feedback:Music on killing and dying.
+ 

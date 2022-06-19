@@ -1,0 +1,6 @@
+1.Controls,weapons and health
+2.Displaying name,health and score
+3.Firebase,gameroom,ranking and respawn
+4.Contact spins and astroids and black holes
+5.Power-ups
+6.Final touch-ups
